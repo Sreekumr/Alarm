@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../7thprogram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ContactListView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FoodDelivery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Simple_calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Tablayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../gridlayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../menu2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../optionmenu" vcs="Git" />
+  </component>
+</project>
